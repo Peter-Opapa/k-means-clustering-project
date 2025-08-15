@@ -2,7 +2,20 @@
 
 ## Overview
 This project applies K-Means clustering to segment mall customers based on their annual income and spending score. Customer segmentation enables businesses to understand their customer base, personalize marketing strategies, and improve overall business performance.
-![Workflow](https://github.com/Peter-Opapa/k-means-clustering-project/blob/main/workflow.png)
+<p align="center">
+  <img src="https://github.com/Peter-Opapa/k-means-clustering-project/blob/main/workflow.png" alt="Workflow" width="80%">
+</p>
+
+## Folder Structure
+```
+k-means-clustering-project/
+├── customer_segmentation_using_k-means.ipynb # Main analysis notebook
+├── Mall_Customers.csv                        # Dataset
+├── README.md                                 # Project documentation
+├── LICENSE                                   # License information
+├── requirements.txt                          # Python dependencies
+├── workflow.png                              # Architecture image
+```
 
 ## Objective
 - Identify distinct customer groups in the mall dataset.
